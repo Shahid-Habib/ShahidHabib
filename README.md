@@ -1,4 +1,4 @@
-# ShahidHabib
+# shahidhabib
 
 # 👋 Hi, I'm Shahid Habib
 
